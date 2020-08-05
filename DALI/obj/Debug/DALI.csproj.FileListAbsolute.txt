@@ -1,0 +1,12 @@
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\bin\Debug\DALI.dll.config
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\bin\Debug\DALI.dll
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\bin\Debug\DALI.pdb
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\bin\Debug\EntityFramework.dll
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\bin\Debug\EntityFramework.SqlServer.dll
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\bin\Debug\EntityFramework.xml
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\bin\Debug\EntityFramework.SqlServer.xml
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\obj\Debug\DALI.csprojAssemblyReference.cache
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\obj\Debug\DALI.csproj.CoreCompileInputs.cache
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\obj\Debug\DALI.csproj.CopyComplete
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\obj\Debug\DALI.dll
+G:\VisualStudio\Projetos\WebApiiPloomes\DALI\obj\Debug\DALI.pdb
